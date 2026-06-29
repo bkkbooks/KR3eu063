@@ -1,0 +1,97 @@
+canonical_identifier: bkk:krp/KR3eu063/v1
+canonical_location: https://kanripo.org/bkk/KR3eu063/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 類聚方
+  identifiers:
+    krp: KR3eu063
+  tags:
+    kr-categories: KR3eu
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu063.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eu063_000.yaml, hash: 'sha256:ea57038a9f77ef76cdb93abad293f2670416bf78af441865651bfa8666a22928'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eu063_000.markers.yaml, hash: 'sha256:26a6eb4afae71e7a8ecfb3b01a02b924e2927a37f3e350ef0f73e9e586232d7e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eu063_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 943
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu063_jc_000-d3.h1s1
+    span:
+    - front
+    - 943
+    - 1351
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu063_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 657
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu063_jc_000-d5.h1s1
+    span:
+    - body
+    - 657
+    - 25253
+  label: 正文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu063_jc_000-d5d1308
+    span:
+    - body
+    - 24282
+    - 25253
+  label: 不試方十八方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu063_jc_000-d6.h1s1
+    span:
+    - body
+    - 25253
+    - 25443
+  label: 跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu063_jc_000-d7.h1s1
+    span:
+    - body
+    - 25443
+    - 25707
+  label: 題類聚方後
+  type: section
+  level: 1
+hash: sha256:1c279e532a8e008f031e5d0f54e3c6b8eeb27b26ac32c8c80935e5db015730b6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
