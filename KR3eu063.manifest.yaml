@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eu063_000.yaml, hash: 'sha256:c253b74a7ec2edf196a9ba6582b07c5aa6398366bde9f0c303814018201ca77a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eu063_000.markers.yaml, hash: 'sha256:aa7b2d16c378d58a906ab713fba358c6fb67a9dbc252fc95c4c9981e8f1f616f'}
+  - {seq: 0, role: markers, filename: assets/KR3eu063_000.markers.yaml, hash: 'sha256:6f447f8cbe7b33045224310b274333b1beb0dd421c8d7ca45ea4a3c7d8c05b5e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -91,7 +91,7 @@ table_of_contents:
   label: 題類聚方後
   type: section
   level: 1
-hash: sha256:3733fd180b096e22628d9147dfcab6bd33c72ab1ccf168eac04f9e8db9d05861
+hash: sha256:f7059d0e51d6a8803b402ecbec22e43944f839761ee16c570ffb613c6350c0c7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
